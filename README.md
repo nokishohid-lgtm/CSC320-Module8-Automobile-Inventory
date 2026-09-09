@@ -50,8 +50,7 @@ CSC320-Module8-Automobile-Inventory/
     ├── 02b-automobile-methods-remove-update.jpg
     ├── 03-initial-vehicle-output.jpg
     ├── 04-add-update-output.jpg
-    ├── 05a-file-output.jpg
-    ├── 05b-file-output.jpg
+    ├── 05-file-output.jpg
     └── 06-autos-file-verification.jpg
 ```
 
