@@ -94,8 +94,7 @@ It then performs the following actions:
 
 ### File Output
 
-![File Output](screenshots/05a-file-output.jpg)
-![File Output](screenshots/05b-file-output.jpg)
+![File Output](screenshots/05-file-output.jpg)
 
 ### Autos.txt Verification
 
