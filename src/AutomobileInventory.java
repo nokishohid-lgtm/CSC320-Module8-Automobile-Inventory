@@ -62,7 +62,7 @@ public class AutomobileInventory {
                     "information to a file? (Y/N): "
             );
 
-            String response = scanner.nextLine();
+            String response = scanner.nextLine().trim();
 
             if (response.equalsIgnoreCase("Y")) {
 
